@@ -42,5 +42,3 @@ I am a mix of Machine Learning and Deep Learning, I am a big fan of Reinforcemen
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 </p>
 
-
----
