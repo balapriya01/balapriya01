@@ -1,5 +1,5 @@
 # Hi there, I'm Bala Priya     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-<img src="https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge" width="120px" />
+<img src="https://komarev.com/ghpvc/?username=balapriya01&label=Profile%20Visits&color=green&style=for-the-badge" width="110px" />
 
 
 I am a mix of Machine Learning and Deep Learning, I am a big fan of Reinforcement Learning. Neurons?? No!!! My brain in made up of Neural Networks. I process different signals with diffrent functions. You will soon find me as a Research Engineer in DeepMind. Period. 
