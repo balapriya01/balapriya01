@@ -13,9 +13,10 @@ I am a mix of Machine Learning and Deep Learning, I am a big fan of Reinforcemen
 - 🔭 &nbsp; I’m currently working on something, you will get to know that soonnn
 - 🌱 &nbsp; I’m currently learning ML
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/balapriya01?tab=repositories)
+- 🎯 &nbsp; To get into 0.1%
 - 💬 &nbsp; Ask me about anything about ML, I am happy to help
 - 📚 &nbsp; When I am free, I read thriller/mystery and fiction novels. Sometimes Self Help as well
-- ⚡ Fun fact: I love filter Coffee and call gemini Gemmu, sounds cute and my assistant loves it. 
+- ⚡ &nbsp; I love filter Coffee and call Gemini, Gemmu, sounds cute and my assistant loves it. 
 
 <br>
 
