@@ -14,7 +14,7 @@ Neurons?? Noooo My brain is made up of Neural Networks. I process different sign
 - 🔭 &nbsp; I’m currently working on something, you will get to know that soonnn
 - 🌱 &nbsp; I’m currently learning ML
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/balapriya01?tab=repositories)
-- 🎯 &nbsp; To get into 0.1%
+- 🎯 &nbsp; To get into that 0.1%
 - 💬 &nbsp; Ask me about anything about ML, I am happy to help
 - 📚 &nbsp; When I am free, I read thriller/mystery and fiction novels. Sometimes Self Help as well
 - ⚡ &nbsp; I love filter Coffee and call Gemini, Gemmu, sounds cute and my assistant loves it. 
