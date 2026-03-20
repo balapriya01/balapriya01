@@ -3,7 +3,7 @@
 
 
 I am a mix of Machine Learning and Deep Learning, I am a big fan of Reinforcement Learning. <br>
-Neurons?? Noooo My brain is made up of Neural Networks. I process different signals with diffrent functions. You will soon find me as a Research Engineer in DeepMind. Period. 
+Neurons?? Noooo My brain is made up of Neural Networks. I process different signals with diffrent functions.Period. 
 <br/>
 <br/>
 
